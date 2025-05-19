@@ -1,0 +1,9 @@
+C:\Users\aliko\Desktop\UDEMY\murat yücedağ\sinama_büfe_satış_uygulaması\sinama_büfe_satış_uygulaması\bin\Debug\sinama_büfe_satış_uygulaması.exe.config
+C:\Users\aliko\Desktop\UDEMY\murat yücedağ\sinama_büfe_satış_uygulaması\sinama_büfe_satış_uygulaması\bin\Debug\sinama_büfe_satış_uygulaması.exe
+C:\Users\aliko\Desktop\UDEMY\murat yücedağ\sinama_büfe_satış_uygulaması\sinama_büfe_satış_uygulaması\bin\Debug\sinama_büfe_satış_uygulaması.pdb
+C:\Users\aliko\Desktop\UDEMY\murat yücedağ\sinama_büfe_satış_uygulaması\sinama_büfe_satış_uygulaması\obj\Debug\sinama_büfe_satış_uygulaması.csprojResolveAssemblyReference.cache
+C:\Users\aliko\Desktop\UDEMY\murat yücedağ\sinama_büfe_satış_uygulaması\sinama_büfe_satış_uygulaması\obj\Debug\sinama_büfe_satış_uygulaması.Form1.resources
+C:\Users\aliko\Desktop\UDEMY\murat yücedağ\sinama_büfe_satış_uygulaması\sinama_büfe_satış_uygulaması\obj\Debug\sinama_büfe_satış_uygulaması.Properties.Resources.resources
+C:\Users\aliko\Desktop\UDEMY\murat yücedağ\sinama_büfe_satış_uygulaması\sinama_büfe_satış_uygulaması\obj\Debug\sinama_büfe_satış_uygulaması.csproj.GenerateResource.Cache
+C:\Users\aliko\Desktop\UDEMY\murat yücedağ\sinama_büfe_satış_uygulaması\sinama_büfe_satış_uygulaması\obj\Debug\sinama_büfe_satış_uygulaması.exe
+C:\Users\aliko\Desktop\UDEMY\murat yücedağ\sinama_büfe_satış_uygulaması\sinama_büfe_satış_uygulaması\obj\Debug\sinama_büfe_satış_uygulaması.pdb
